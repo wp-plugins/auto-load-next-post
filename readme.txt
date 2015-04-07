@@ -43,10 +43,12 @@ The demo uses a child theme that includes the required support for the plugin to
 = Donations and Reviews =
 To keep this plugin working and support many themes as possible, please consider making a [donation](http://www.sebastiendumont.com/donation/) or [write a review](https://wordpress.org/support/view/plugin-reviews/auto-load-next-post?rate=5#postform).
 
-** More information **
-- Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](http://www.sebastiendumont.com/)
-- Contact Sebastien on Twitter: [@sebd86](http://twitter.com/sebd86)
-- If you're a developer yourself, follow or contribute to the [Auto Load Next Post plugin on GitHub](https://github.com/seb86/auto-load-next-post)
+**More information**
+
+- Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](http://www.sebastiendumont.com/) 
+- Contact Sebastien on Twitter: [@sebd86](http://twitter.com/sebd86) 
+- If you're a developer yourself, follow or contribute to the [Auto Load Next Post plugin on GitHub](https://github.com/seb86/auto-load-next-post) 
+
 
 == Installation ==
 Installing "Auto Load Next Post" can be done either by searching for "Auto Load Next Post" via the "Plugins > Add New" screen in your WordPress dashboard, or by using the following steps:
