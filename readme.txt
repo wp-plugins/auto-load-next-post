@@ -1,7 +1,7 @@
 === Auto Load Next Post ===
 Contributors:      sebd86
 Donate link:       http://www.sebastiendumont.com/donation/
-Tags:              auto load, posts, scrolling, history
+Tags:              auto load posts, scroll, scroll posts, post scroller, scrolling, infinite scroll, AJAX, endless, history, post history, browsing history
 Requires at least: 4.0
 Tested up to:      4.2.2
 Stable tag:        1.4.1
@@ -46,7 +46,7 @@ To keep this plugin working and support many themes as possible, please consider
 **More information**
 
 - Other [WordPress plugins](http://profiles.wordpress.org/sebd86/) by [Sébastien Dumont](http://www.sebastiendumont.com/)
-- Contact Sebastien on Twitter: [@sebd86](http://twitter.com/sebd86)
+- Contact Sébastien on Twitter: [@sebd86](http://twitter.com/sebd86)
 - If you're a developer yourself, follow or contribute to the [Auto Load Next Post plugin on GitHub](https://github.com/seb86/auto-load-next-post)
 
 == Installation ==
